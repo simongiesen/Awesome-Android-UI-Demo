@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/NavigationTabBar/src/main/res/drawable/ic_eighth.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NavigationTabBar/src/main/res/drawable/ic_fifth.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NavigationTabBar/src/main/res/drawable/ic_first.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NavigationTabBar/src/main/res/drawable/ic_fourth.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NavigationTabBar/src/main/res/drawable/ic_second.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NavigationTabBar/src/main/res/drawable/ic_seventh.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NavigationTabBar/src/main/res/drawable/ic_sixth.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NavigationTabBar/src/main/res/drawable/ic_third.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NavigationTabBar/src/main/res/values/arrays.xml" charset="UTF-8" />
+  </component>
+</project>
